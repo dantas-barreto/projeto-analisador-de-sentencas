@@ -17,5 +17,13 @@ Durante o desenvolvimento deste projeto, aprendi:
 ## 📸 Prints
 *Abaixo alguns prints do processo:*
 
-![print1](prints/Screenshot 1.png)
-
+![print1](https://github.com/dantas-barreto/projeto-analisador-de-sentencas/blob/main/prints/Screenshot%201.png?raw=true)
+![print1](https://github.com/dantas-barreto/projeto-analisador-de-sentencas/blob/main/prints/Screenshot%202.png?raw=true)
+![print3](https://github.com/dantas-barreto/projeto-analisador-de-sentencas/blob/main/prints/Screenshot%203.png?raw=true)
+![print4](https://github.com/dantas-barreto/projeto-analisador-de-sentencas/blob/main/prints/Screenshot%204.png?raw=true)
+![print5](https://github.com/dantas-barreto/projeto-analisador-de-sentencas/blob/main/prints/Screenshot%205.png?raw=true)
+![print6](https://github.com/dantas-barreto/projeto-analisador-de-sentencas/blob/main/prints/Screenshot%206.png?raw=true)
+![print7](https://github.com/dantas-barreto/projeto-analisador-de-sentencas/blob/main/prints/Screenshot%207.png?raw=true)
+![print8](https://github.com/dantas-barreto/projeto-analisador-de-sentencas/blob/main/prints/Screenshot%208.png?raw=true)
+![print9](https://github.com/dantas-barreto/projeto-analisador-de-sentencas/blob/main/prints/Screenshot%209.png?raw=true)
+![print10](https://github.com/dantas-barreto/projeto-analisador-de-sentencas/blob/main/prints/Screenshot%2010.png?raw=true)
